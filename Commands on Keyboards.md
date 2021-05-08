@@ -1,4 +1,4 @@
-ctrl + shift + c = plain text no formating
+ ctrl + shift + c = plain text no formating
 ctrl + s = saves document
 ctrl + f = find replace command
 ctrl + z = undo

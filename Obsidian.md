@@ -1,0 +1,1 @@
+I am loving Obsidian so far.  I don't know much about it right now but it is freaking awesome with the little bit I know. [[Python]][[JavaScript]][[Networking]]

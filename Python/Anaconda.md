@@ -1,0 +1,1 @@
+Don't know much about anaconda yet but it appears to be a terminal window for use with Python. [[Python]]
