@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "API's.md",
+            "file": "Glossary.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API's.md",
+                "file": "Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "40eebd15aba680a1",
   "lastOpenFiles": [
-    "API's.md",
+    "Glossary.md",
     "JavaScript/JavaScript.md",
-    "http_verbs.png",
-    "Untitled.md",
-    "Git.md",
-    "Commands on Keyboards.md",
-    "HTML.md",
-    "Untitled 1.md",
-    "Docker Course.md",
-    "Docker.md"
+    "Networking/Networking.md",
+    "Networking/VPN's.md",
+    "Hacking/Pentesting.md",
+    "Hacking/Hack the Box.md",
+    "Hacking/Hacking.md",
+    "Hacking/Capture the Flags.md",
+    "Hacking/TryHackMe.md",
+    "Untitled.md"
   ]
 }
