@@ -3,6 +3,8 @@ What I learned in JavaScript
 
 **  
 
+defer = <script src\="script.js" defer\></script\>  so it loads after the whole page is parsed.
+
 Bubbling in event listeners move up the tree, inner towards outer element
 
 Capturing in event listeners moves from outer element to inner element

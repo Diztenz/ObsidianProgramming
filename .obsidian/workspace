@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Glossary.md",
+            "file": "JavaScript/JavaScript.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary.md",
+                "file": "JavaScript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,8 @@
   },
   "active": "40eebd15aba680a1",
   "lastOpenFiles": [
-    "Glossary.md",
     "JavaScript/JavaScript.md",
+    "Glossary.md",
     "Networking/Networking.md",
     "Networking/VPN's.md",
     "Hacking/Pentesting.md",
