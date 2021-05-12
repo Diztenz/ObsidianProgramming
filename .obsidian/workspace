@@ -9,7 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Networking/Networking.md",
+=======
+            "file": "JavaScript/JavaScript.md",
+>>>>>>> ec30dd824684f8de38d9585bb9bad0195ad8d5a7
             "mode": "source"
           }
         }
@@ -68,7 +72,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Networking/Networking.md",
+=======
+                "file": "JavaScript/JavaScript.md",
+>>>>>>> ec30dd824684f8de38d9585bb9bad0195ad8d5a7
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +95,7 @@
   },
   "active": "40eebd15aba680a1",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Networking/Networking.md",
     "http_verbs.png",
     "http_crud.png",
@@ -97,5 +106,17 @@
     "JavaScript/JavaScript.md",
     "Git.md",
     "Commands on Keyboards.md"
+=======
+    "JavaScript/JavaScript.md",
+    "Glossary.md",
+    "Networking/Networking.md",
+    "Networking/VPN's.md",
+    "Hacking/Pentesting.md",
+    "Hacking/Hack the Box.md",
+    "Hacking/Hacking.md",
+    "Hacking/Capture the Flags.md",
+    "Hacking/TryHackMe.md",
+    "Untitled.md"
+>>>>>>> ec30dd824684f8de38d9585bb9bad0195ad8d5a7
   ]
 }
