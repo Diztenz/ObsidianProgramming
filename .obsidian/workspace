@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "WiFi Security.md",
+            "file": "RAM.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WiFi Security.md",
+                "file": "RAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "8602fe3e68eaacba",
   "lastOpenFiles": [
-    "Untitled.md"
+    "Untitled.md",
+    "WiFi Security.md"
   ]
 }
